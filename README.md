@@ -4,19 +4,19 @@
 
 
 
-### Problem Statement 🧾
+***Problem Statement*** 🧾
 
-To innovate and build a Mercor chatbot using OpenAI's GPT models or other open-source LLMs that would be actually used by a large base of users.
+>To innovate and build a Mercor chatbot using OpenAI's GPT models or other open-source LLMs that would be actually used by a large base of users.
 
-## Solution 🎯
+***Solution*** 🎯
 
- Chatbot for Mercor Company ✨ using Alan AI
+ >Chatbot for Mercor Company ✨ using Alan AI
 
- ## What is Alan AI? 🤔
+ ***What is Alan AI?*** 🤔
 
-As a multimodal AI platform, Alan AI leverages a combination of natural language processing, speech recognition, and non-verbal context to provide a seamless and intuitive conversational experience for users.
+>As a multimodal AI platform, Alan AI leverages a combination of natural language processing, speech recognition, and non-verbal context to provide a seamless and intuitive conversational experience for users.
 
-## Features 🚀
+***Features*** 🚀
 
 * Conversational AI powered by LLMs and generative AI
 * Automatic question answering
@@ -28,12 +28,16 @@ As a multimodal AI platform, Alan AI leverages a combination of natural language
 * Integration with any app or web application
 * Rich analytics and super-fast iteration
 
-## What's inside the repo? 👀
+***What's inside the repo?*** 👀
 
-The project is structured in the following way:
+>The project is structured in the following way:
 
 * index.html: web page with the web chat added
 * dialog-scripts: dialog scripts for the web chat conversational experience
 * assets: content-related assets (images, PDFs, JS files and so on)
 
 You can replace the Alan AI SDK key with your own key in the index.html file, the Alan button block section.
+
+***Live demo*** 📌
+
+>Check out the live web chat demo here: https://akshathar-navada.github.io/mercor-chatbot/
